@@ -2,5 +2,5 @@ voila
 ipywidgets
 numpy
 
-PIL
+
 random
