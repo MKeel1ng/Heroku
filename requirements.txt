@@ -1,6 +1,6 @@
 voila
 ipywidgets
 numpy
-os
+
 PIL
 random
